@@ -21,11 +21,22 @@ Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to
 
 ## V3 - Coming Soon
 ### V3 General Assistant Screenshot:
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/6e35f3cf-fa60-47cb-b6f8-533dbf89072c)
+
 ### V3 Code Completion Screenshot:
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/9c4fa802-468f-4899-b2c2-bc5bc7b05ef9)
+
 ### V3 Code Correction Screenshot: 
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/1ffe61e2-2f73-4a47-b11c-8aee0b9f0b8c)
+
 ### V3 Code Commenting Screenshot:
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/701eb2c6-8321-4c43-b06f-0df728c03858)
+
 ### V3 Code Optimization Screenshot:
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/bf796215-328d-41b7-919b-62f669ed4e61)
+
 ### V3 Code Explanation Screenshot:
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/f5ace256-8a75-4a10-a6c6-07d93f579535)
 
 ## V2
 ### V2 Code Completion Screenshot
