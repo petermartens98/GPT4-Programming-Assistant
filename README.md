@@ -3,18 +3,29 @@
 Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to specify their desired programming language and scenario. The user can then interact with a GPT-4 chatbot intended for programming purposes and the user's specific code input.
 
 ### Supported Scenarios
-1. Code Corrections
-2. Snippet Completion
+1. General Assistant
+2. Code Correction
+3. Code Completion
+4. Code Commenting
+5. Code Generation
+6. Code Explanation
 
 ### Supported Languages
 1. Python
 2. JavaScript
-3. Golang
-4. C
-5. C++
-6. C#
+3. Java
+4. Golang
+5. C
+6. C++
+7. C#
 
 ## V3 - Coming Soon
+### V3 General Assistant Screenshot:
+### V3 Code Completion Screenshot:
+### V3 Code Correction Screenshot: 
+### V3 Code Commenting Screenshot:
+### V3 Code Optimization Screenshot:
+### V3 Code Explanation Screenshot:
 
 ## V2
 ### V2 Code Completion Screenshot
