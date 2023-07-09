@@ -25,16 +25,16 @@ Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to
 
 ## V5
 ### Improvements
-#### 1. Added support for SQL
+### 1. Added support for SQL
    ![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/a46515b5-20a2-41ef-8330-dbdb46ccae79)
 
-#### 2. Added Code Shortening Mode
+### 2. Added Code Shortening Mode
  ![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/f9f4380e-411c-48d5-ada6-366d56f30c57)
 
-#### 3. Added Leet Code Solver 
+### 3. Added Leet Code Solver 
 ![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/07d6ff64-2f71-4687-82d3-d84f297b3eb0)
 
-#### 4. Added Code to display source code
+### 4. Added Code to display source code
 ![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/5ebb8827-0d01-418a-b650-bff087e95478)
 
 ## V4
