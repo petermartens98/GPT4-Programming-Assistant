@@ -7,8 +7,11 @@ Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to
 2. Code Correction
 3. Code Completion
 4. Code Commenting
-5. Code Generation
-6. Code Explanation
+5. Code Optimization
+6. Code Shortening
+7. Code Generation
+8. Code Explanation
+9. LeetCode Solver
 
 ### Supported Languages
 1. Python
@@ -18,6 +21,21 @@ Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to
 5. C
 6. C++
 7. C#
+8. SQL
+
+## V5
+### Improvements
+#### 1. Added support for SQL
+   ![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/a46515b5-20a2-41ef-8330-dbdb46ccae79)
+
+#### 2. Added Code Shortening Mode
+ ![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/f9f4380e-411c-48d5-ada6-366d56f30c57)
+
+#### 3. Added Leet Code Solver 
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/07d6ff64-2f71-4687-82d3-d84f297b3eb0)
+
+#### 4. Added Code to display source code
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/5ebb8827-0d01-418a-b650-bff087e95478)
 
 ## V4
 Improved code modularity
