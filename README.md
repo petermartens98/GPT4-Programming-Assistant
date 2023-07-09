@@ -19,7 +19,10 @@ Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to
 6. C++
 7. C#
 
-## V3 - Coming Soon
+## V4
+Improved code modularity
+
+## V3
 ### V3 General Assistant Screenshot:
 ![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/6e35f3cf-fa60-47cb-b6f8-533dbf89072c)
 
