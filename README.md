@@ -13,15 +13,27 @@ Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to
 8. Code Explanation
 9. LeetCode Solver
 
-### Supported Languages
+### Supported Programming Languages
 1. Python
-2. JavaScript
-3. Java
-4. Golang
-5. C
-6. C++
-7. C#
-8. SQL
+2. TypeScripts
+3. JavaScript
+4. Java
+5. Golang
+6. C
+7. C++
+8. C#
+9. SQL
+
+### Supported Large Language Models
+
+## V6
+### V6 Improvements
+1. Allow users to upload and embed multiple documents
+2. Allow users to specify a desired library within their specified programming language
+3. Allose users to specify their desired large language model
+### V6 Example Screenshot
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/688eb70b-e84e-4dcc-9f68-a05ca414d665)
+
 
 ## V5
 ### Improvements
