@@ -1,6 +1,6 @@
  # GPT4-Coding-Assistant-Web-App
 ### Description
-Python Streamlit web app utilizing OpenAI (GPT-4) and LangChain language modelling tools. Application includes an SQLite database for login/authentication and message storage for later retrieval. Users can also upload and embed their own PDF douments for chatbot reference. The user can then interact with a GPT-4 chatbot intended for the user's specified programming language, code input, context, scenario, llm temperature and chat history.
+Python Streamlit web app utilizing OpenAI (GPT-4) and LangChain language modeling tools. Application includes an SQLite database for login/authentication and message storage for later retrieval. Users can also upload and embed their own PDF documents for chatbot reference. The user can then interact with a GPT-4 chatbot intended for the user's specified programming language, code input, context, scenario, LLM temperature, and chat history.
 
 ### Supported Scenarios
 1. General Assistant
