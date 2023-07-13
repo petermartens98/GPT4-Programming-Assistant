@@ -32,6 +32,7 @@ Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to
 
 ## V7
 ### V7 Improvements
+Coming Soon
 
 ## V6
 ### V6 Improvements
