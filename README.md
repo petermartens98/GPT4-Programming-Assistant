@@ -32,7 +32,12 @@ Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to
 
 ## V7
 ### V7 Improvements
-Coming Soon
+1. Added User Login and Authentication System (SQLite)
+2. Save User Messages (SQLite)
+3. View and Revive Previous Chats
+### V7 Screenshot
+![image](https://github.com/petermartens98/GPT4-Programming-Assistant/assets/87671757/2467d134-cf1a-46a9-9ed6-4deb57a426de)
+
 
 ## V6
 ### V6 Improvements
