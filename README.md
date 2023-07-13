@@ -30,6 +30,9 @@ Python Streamlit web app utilizing OpenAI and LangChain. This app allows user to
 2. GPT-4-0613
 3. GPT-3.5-Turbo
 
+## V7
+### V7 Improvements
+
 ## V6
 ### V6 Improvements
 1. Allow users to upload and embed multiple documents
